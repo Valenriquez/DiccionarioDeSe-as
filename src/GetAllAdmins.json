@@ -1,0 +1,17 @@
+{
+    "admins": [
+        {
+            "username": "SoyAdminLaura",
+            "passwrod": "ppp",
+            "email": "blabla@outlook.com",
+            "issuperuser": false
+        },
+        {
+            "username": "SoySuperadminMaria",
+            "passwrod": "123",
+            "email": "soysuper@outlook.com",
+            "issuperuser": true
+        }
+    ]
+  }
+    

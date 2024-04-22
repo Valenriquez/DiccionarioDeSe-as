@@ -1,0 +1,121 @@
+{
+  "words": [
+      {
+          "id": 26,
+          "word": "Amarillo",
+          "categoryid": 17,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "yellow",
+          "suggested1": "Azul",
+          "suggested2": "Rojo",
+          "video": "Alimentos_7_Amarillo",
+          "idsettings": 1,
+          "isscannable": false,
+          "audio": "Manzana"
+      },
+      {
+          "id": 27,
+          "word": "Azul",
+          "categoryid": 17,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "blue",
+          "suggested1": "Amarillo",
+          "suggested2": "Rojo",
+          "video": "Alimentos_7_Azul",
+          "idsettings": 1,
+          "isscannable": false,
+          "audio": "Manzana"
+      },
+      {
+          "id": 23,
+          "word": "Galleta",
+          "categoryid": 15,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "cookie",
+          "suggested1": "Platano",
+          "suggested2": "Manzana",
+          "video": "Alimentos_7_Galleta",
+          "idsettings": 1,
+          "isscannable": false,
+          "audio": "Manzana"
+      },
+      {
+          "id": 24,
+          "word": "Galleta",
+          "categoryid": 19,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "cookie",
+          "suggested1": "Platano",
+          "suggested2": "Manzana",
+          "video": "Alimentos_7_Galleta",
+          "idsettings": 1,
+          "isscannable": false,
+          "audio": "Manzana"
+      },
+      {
+          "id": 21,
+          "word": "Manzana",
+          "categoryid": 14,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "apple",
+          "suggested1": "Rojo",
+          "suggested2": "Platano",
+          "video": "Alimentos_7_Manzana",
+          "idsettings": 1,
+          "isscannable": true,
+          "audio": "Manzana"
+      },
+      {
+          "id": 25,
+          "word": "Pajaro",
+          "categoryid": 16,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "bird",
+          "suggested1": "Azul",
+          "suggested2": "Manzana",
+          "video": "Alimentos_7_Pajaro",
+          "idsettings": 1,
+          "isscannable": false,
+          "audio": "Manzana"
+      },
+      {
+          "id": 29,
+          "word": "Pelota",
+          "categoryid": 18,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "ball",
+          "suggested1": "Rojo",
+          "suggested2": "Azul",
+          "video": "Alimentos_7_Pelota",
+          "idsettings": 1,
+          "isscannable": false,
+          "audio": "Manzana"
+      },
+      {
+          "id": 22,
+          "word": "Platano",
+          "categoryid": 14,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "banana",
+          "suggested1": "Manzana",
+          "suggested2": "Amarillo",
+          "video": "Alimentos_7_Platano",
+          "idsettings": 1,
+          "isscannable": true,
+          "audio": "Manzana"
+      },
+      {
+          "id": 28,
+          "word": "Rojo",
+          "categoryid": 17,
+          "definition": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "red",
+          "suggested1": "Amarillo",
+          "suggested2": "Azul",
+          "video": "Alimentos_7_Rojo",
+          "idsettings": 1,
+          "isscannable": false,
+          "audio": "Manzana"
+      }
+  ]
+}

@@ -1,0 +1,37 @@
+.left-side {
+  float: left;
+  width: 50%;  
+}
+.right-side {
+  float: right;
+  width: 50%; 
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.box {  
+  border: 1px solid #ccc; /* Add a border for separation */
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px; /* Rounded corners */
+  background-color: rgb(191, 29, 161); /* Clear blue background color  191, 29, 161*/
+  max-width: 300px; 
+}
+  
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+}
+  
+button:hover {
+  text-decoration: underline;
+}
+
+ 
+  

@@ -1,0 +1,16 @@
+
+.container-stats{
+  margin-left: 18%;
+  margin-top: -1700px;
+}
+.chart-container-pie {
+  flex: 1; /* The chart container takes up available space */
+  margin-left: 9%;
+  margin-top: -1600px;
+  display: flex;
+  align-items: center;
+}
+
+.box{
+  background-color: rgb(196, 117, 181);
+}

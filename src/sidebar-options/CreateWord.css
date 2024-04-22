@@ -1,0 +1,50 @@
+.custom-button {
+  background-color: rgb(0, 0, 255);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+    
+label {
+  padding: 15px;
+}
+
+h1 {
+  padding-top: 30px;
+}
+
+.Add-word {
+  text-align: right;
+}
+
+.container {
+  justify-content: flex-end;  
+  align-items: flex-start; 
+  width: 900px;
+  position: relative;
+  top: -2700px;
+  left: 6%;
+}
+ 
+.palabras-actuales{
+  font-size: medium;
+  padding-left: 100px;
+}
+
+.base-datos {
+  left: 20px;
+}
+
+.col {
+  position: relative;
+  padding-inline: 30px;
+  padding-block-start: 20px;
+  padding: 10px;
+ }
+
+.box {
+  background-color: rgb(184, 21, 154);  
+}
+ 

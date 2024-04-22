@@ -1,0 +1,52 @@
+{
+  "categories": [
+      {
+          "id": 14,
+          "name": "Frutas",
+          "color": "rojo",
+          "icon": "apple.logo",
+          "idsettings": 1,
+          "isscannable": true
+      },
+      {
+          "id": 15,
+          "name": "Postres",
+          "color": "naranja",
+          "icon": "birthday.cake",
+          "idsettings": 1,
+          "isscannable": false
+      },
+      {
+          "id": 16,
+          "name": "Animales",
+          "color": "cafe",
+          "icon": "bird",
+          "idsettings": 1,
+          "isscannable": false
+      },
+      {
+          "id": 17,
+          "name": "Colores",
+          "color": "azul",
+          "icon": "paintpalette",
+          "idsettings": 1,
+          "isscannable": false
+      },
+      {
+          "id": 18,
+          "name": "Jugetes",
+          "color": "morado",
+          "icon": "soccerball",
+          "idsettings": 1,
+          "isscannable": false
+      },
+      {
+          "id": 19,
+          "name": "Comida",
+          "color": "verde",
+          "icon": "fork.knife",
+          "idsettings": 1,
+          "isscannable": false
+      }
+  ]
+}

@@ -1,0 +1,31 @@
+.centered-paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #ffffff;
+    
+    padding: 10px;
+}
+
+.col-md-9-principal{
+    justify-content: flex-end;  
+    align-items: flex-start; 
+    width: 900px;
+    position: relative;
+    bottom: 2500px;
+    left: 20%;
+}
+
+.image {
+    width: 600px; /* Set the desired width */
+    height: auto; /* Automatically adjust the height to maintain the aspect ratio */
+    left: 2000px;
+    bottom: 2800px;
+    position: relative;
+}

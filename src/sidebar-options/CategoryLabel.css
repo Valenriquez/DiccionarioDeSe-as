@@ -1,0 +1,15 @@
+.rounded-label {
+  display: inline-block;
+  background-color: #007bff;
+  color: #ffffff;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin-right: 5px;
+  }
+  
+  .rounded-label label {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  }
+  
